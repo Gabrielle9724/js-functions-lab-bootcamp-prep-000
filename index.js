@@ -6,18 +6,18 @@ function happyHolidays(string){
 }
 
 function happyHolidaysTo(name){
-  var name = Gabby
+  var name = "Gabby"
   return "`Happy holidays, ${name}!`"
 }
 
 function happyCustomHolidayTo(holiday, name){
-    var holiday = birthday
-  var name = Gabby
+    var holiday = "birthday"
+  var name = "Gabby"
   return "`Happy ${holiday}` to ${name}!`"
 }
 
 function holidayCountdown(holiday, days){
-    var holiday = birthday
+    var holiday = "birthday"
     var days = 4
   return "`It's ${days} days to ${holiday}`"
 }
