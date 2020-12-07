@@ -3,18 +3,18 @@
   var holiday = birthday
   var days = 4
 
-function happyHolidays{
+function happyHolidays(string){
   console.log "Happy holidays!"
 }
 
-function happyHolidaysTo{
+function happyHolidaysTo(string){
   console.log "Happy holidays, ${name}!`"
 }
 
-function happyCustomHolidayTo{
+function happyCustomHolidayTo(string){
   console.log "Happy ${holiday}` to ${name}!`"
 }
 
-function holidayCountdown{
+function holidayCountdown(string){
   console.log "It's ${days}` days to ${holiday}`"
 }
