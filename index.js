@@ -4,7 +4,7 @@
   var days = 4
 
 function happyHolidays(string){
-  console.log "Happy holidays!"
+  return "Happy holidays!"
 }
 
 function happyHolidaysTo(string){
