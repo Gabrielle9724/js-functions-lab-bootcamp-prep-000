@@ -2,7 +2,7 @@
   var name = Gabby
   var holiday = birthday
   var days = 4
-  
+
 function happyHolidays{
   return "Happy holidays!"
 }
