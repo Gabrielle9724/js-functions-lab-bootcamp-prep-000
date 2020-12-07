@@ -7,17 +7,17 @@ function happyHolidays(string){
 
 function happyHolidaysTo(string){
   var name = Gabby
-  console.log "`Happy holidays, ${name}!`"
+  console.log("`Happy holidays, ${name}!`")
 }
 
 function happyCustomHolidayTo(string){
     var holiday = birthday
   var name = Gabby
-  console.log "`Happy ${holiday}` to ${name}!`"
+  console.log("`Happy ${holiday}` to ${name}!`")
 }
 
 function holidayCountdown(string){
     var holiday = birthday
     var days = 4
-  console.log "`It's ${days} days to ${holiday}`"
+  console.log("`It's ${days} days to ${holiday}`")
 }
