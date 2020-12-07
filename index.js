@@ -4,17 +4,17 @@
   var days = 4
 
 function happyHolidays{
-  return "Happy holidays!"
+  console.log "Happy holidays!"
 }
 
 function happyHolidaysTo{
-  return "Happy holidays, ${name}!`"
+  console.log "Happy holidays, ${name}!`"
 }
 
 function happyCustomHolidayTo{
-  return "Happy ${holiday}` to ${name}!`"
+  console.log "Happy ${holiday}` to ${name}!`"
 }
 
 function holidayCountdown{
-  return "It's ${days}` days to ${holiday}`"
+  console.log "It's ${days}` days to ${holiday}`"
 }
